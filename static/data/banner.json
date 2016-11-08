@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "content": "http://i8.mifile.cn/v1/a1/c08586d6-deb2-b903-4653-662a4db99333!720x360.jpg"
+    },
+    {
+      "content": "http://i8.mifile.cn/v1/a1/fa141400-8be4-0e75-ed8a-e49d41121e50!720x360.jpg"
+    }
+  ]
+}
